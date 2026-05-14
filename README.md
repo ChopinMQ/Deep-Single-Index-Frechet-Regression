@@ -1,6 +1,6 @@
-# DeSI Code Submission
+# Deep Single-Index Frechet Regression
 
-This repository contains the implementation and simulation code for the paper **Deep Single-Index $\mathrm{Fr\acute{e}chet}$ Regression**, accepted by the Forty-Third International Conference on Machine Learning (ICML 2026). The code covers several response spaces:
+This repository contains the implementation and simulation code for the paper **Deep Single-Index Frechet Regression**, accepted by the Forty-Third International Conference on Machine Learning (ICML 2026). The code covers several response spaces:
 
 - SPD covariance matrices with log-Cholesky geometry
 - Network or graph Laplacian matrices with Frobenius geometry
